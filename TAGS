@@ -1,0 +1,48 @@
+
+./Setup.hs,15
+main main1,2
+
+./app/Main.hs,52
+module Main Main0,1
+main main4,5
+main main5,6
+
+./test/Spec.hs,30
+main main0,1
+main main1,2
+
+./src/Set.hs,239
+module Set Set1,2
+class S S3,4
+class S S3,4
+empty empty4,5
+insert insert5,6
+member member6,7
+data MyTree MyTree8,9
+data MyTree a = Empty Empty8,9
+data MyTree a = Empty | Node Node8,9
+empty empty11,12
+empty empty12,13
+
+./src/Lib.hs,65
+module LibLib0,1
+someFunc someFunc4,5
+someFunc someFunc5,6
+
+./src/List.hs,366
+class List List5,6
+class List List5,6
+  empty empty6,7
+  cons cons7,8
+  head head8,9
+  tail tail9,10
+data MyList MyList11,12
+data MyList a = Empty Empty11,12
+data MyList a = Empty | Cons Cons11,12
+instance instance13,14
+conc conc26,27
+conc conc27,28
+update update30,31
+update update31,32
+suffixes suffixes35,36
+suffixes suffixes36,37
